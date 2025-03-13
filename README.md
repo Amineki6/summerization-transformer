@@ -73,8 +73,4 @@ Ensure the following libraries are installed:
 - Hugging Face for the pre-trained models and hosting.
 - Streamlit for easy-to-use web deployment.
 
-## License
-This project is licensed under the MIT License.
-
-Feel free to modify and extend the functionality as per your needs!
 
